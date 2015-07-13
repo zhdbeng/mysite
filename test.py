@@ -1,3 +1,3 @@
 print "hello!"
 print "world!"
-print "just test git test"
+print "just test git show test!"
